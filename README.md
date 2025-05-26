@@ -1,7 +1,7 @@
 
 # Pterodactyl Nginx Egg
 
-A versatile Pterodactyl Egg featuring Nginx, PHP 8.x, WordPress, Git, Composer, ionCube Loader, and Cloudflare Tunnel support.
+My "own" repository. © Ym0T - https://github.com/Ym0T/pterodactyl-nginx-egg
 
 <br>
 

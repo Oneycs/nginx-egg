@@ -1,7 +1,8 @@
 
 # Pterodactyl Nginx Egg
 
-My "own" repository of Nginx Egg for Pterodactyl. Huge thanks to [Ym0T](https://github.com/Ym0T) \n
+My "own" repository of Nginx Egg for Pterodactyl. Huge thanks to [Ym0T](https://github.com/Ym0T)
+
 © Ym0T - https://github.com/Ym0T/pterodactyl-nginx-egg
 
 <br>
